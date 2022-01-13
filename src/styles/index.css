@@ -1,3 +1,79 @@
+.traffic-light {
+    background: black;
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: red;
+    }
+    .red-light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: red;
+    box-shadow: 0px 0px 9px 4px white;
+    }
+    
+    .yellow {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background:yellow;
+        }
+        .yellow-light {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background: yellow;
+        box-shadow: 0px 0px 9px 4px white;
+        }
+
+        .green {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: green;
+            }
+            .green-light {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: green;
+            box-shadow: 0px 0px 9px 4px white;
+            }
+
+/*.red {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: red;
+    }
+
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: yellow;
+}
+.green { 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: green;
+
+}
+
+.glow {
+    box-shadow: 0px 0px 9px 4px white;
+}
+
+
 
 /* 
 
